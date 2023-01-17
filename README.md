@@ -1,2 +1,2 @@
-# opencv-py-test
+# opencv-python
 pythonを使用したopencvのテスト
