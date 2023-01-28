@@ -13,9 +13,6 @@ img = cv2.imread(
     filedialog.askopenfilename(filetypes=[("JPG",".jpg"),("JPG",".JPG")],initialdir=dir)
     )
 
-#グレースケール変換
-gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
 #顔検出
 faces = detector(img)
 
