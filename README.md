@@ -1,2 +1,2 @@
 # opencv-python
-pythonを使用したopencvのテスト
+pythonを使用したopencv,dlibのテスト
