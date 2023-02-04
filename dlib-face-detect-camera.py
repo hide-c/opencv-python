@@ -1,5 +1,4 @@
 import cv2
-import os
 import dlib
 from tkinter import filedialog
 
